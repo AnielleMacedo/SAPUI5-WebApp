@@ -1,6 +1,6 @@
 # LessonsUI5
 
-Insert the purpose of this project and some interesting infos here
+Lezioni di SAPUI5 - Community OpenSAP
 
 ## Credits
 
