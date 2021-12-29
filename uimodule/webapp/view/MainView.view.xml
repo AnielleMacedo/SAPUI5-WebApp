@@ -2,15 +2,18 @@
     controllerName="com.fga.LessonsUI5.controller.MainView"
     xmlns:mvc="sap.ui.core.mvc"
     displayBlock="true"
-    xmlns="sap.m"
->
-    <Shell id="shell">
-        <App id="app">
-            <pages>
-                <Page id="page" title="{i18n>title}">
-                    <content />
-                </Page>
-            </pages>
-        </App>
-    </Shell>
+    xmlns="sap.m">
+
+   <Carousel  id="car">
+   <!--Carousel possied pages come aggregations-->
+        <pages>
+            <Image  id="im1"
+            src="https://cdn.maikoapp.com/3d4b/4qgko/f200.jpg"
+            height="400px"/>
+
+            <Image id="im2"
+            src="https://cdn.maikoapp.com/3d4b/4qtwb/200x150.png"
+            height="400px"/>
+        </pages>
+</Carousel>
 </mvc:View>
