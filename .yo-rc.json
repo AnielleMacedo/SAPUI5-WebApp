@@ -1,0 +1,22 @@
+{
+  "generator-template-ui5-project": {
+    "projectname": "LessonsUI5",
+    "namespaceUI5": "com.fga",
+    "platform": "Static webserver",
+    "viewtype": "XML",
+    "ui5libs": "Local resources (OpenUI5)",
+    "newdir": false,
+    "codeassist": true,
+    "namespaceURI": "com/fga",
+    "opa5pos": [
+      "Main"
+    ],
+    "opa5Journeys": [
+      "Main"
+    ],
+    "uimodules": [
+      "uimodule"
+    ],
+    "setupCompleted": true
+  }
+}
